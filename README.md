@@ -1,5 +1,5 @@
 # BloodDonationApp
-RakthDaan is an Android app that uses Firebase Realtime Database to collect and organize information of blood donors.
+BloodDonationApp is an Android app that uses Firebase Realtime Database to collect and organize information of blood donors.
 This android app is a community between people who need blood and who are wiling to donote blood.Which has maily two option, one for "Need Blood" and the other is "Be a Donor".
 
 1. New User can register itself for blood donation and a registered user can log in to a/c & search for the available donors of a certain blood group. 
